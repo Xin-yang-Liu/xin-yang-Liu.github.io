@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/ppnn
 excerpt: 'Embedding Finite Difference Operators into Neural Networks'
-date: 2024
+date: 2024-01-13
 venue: 'Communications Physics'
 slidesurl: 'https://github.com/jx-wang-s-group/ppnn'
 paperurl: 'https://www.nature.com/articles/s42005-024-01521-z'
