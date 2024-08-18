@@ -8,38 +8,13 @@ redirect_from:
 ---
 
 {% include base_path %}
-[download](https://xin-yang-liu.github.io/files/cv.pdf)
+
+Download the [PDF verion](https://xin-yang-liu.github.io/files/cv.pdf)
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Ph.D in Mechanical Engineering, University of Notre Dame, U.S.A., May, 2025 (expected)
+* B.S. in Energy and Power engineering, Xi'an Jiaotong University, China, 2019
 
 Publications
 ======
@@ -53,12 +28,11 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+Awards
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- USACM Thematic Conference on Uncertainty Quantification for Machine Learning Integrated Physics Modeling (UQ-MLIP) Travel Award, Aug, 2024
+
+- Society of Engineering Science Annual Technical Meeting (SES2022) funding support, Oct, 2022
+
+- USNCCM16 ($16^{th}$ U.S. National Congress on Computational Mechanics) Conference Award,  May, 2021
+
