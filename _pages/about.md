@@ -13,13 +13,8 @@ I am a Ph.D. candidate at the [University of Notre Dame](https://www.nd.edu) und
 Besides research, I would call myself a tech nerd. I am always fancinated by the mordern engineering accomplishments, especially computing hardwares. I designed, configured and have been maintaining the multi-node GPU cluster - CoMSAIL for our lab at Notre Dame since 2021. 
 
 
-# Selected Publication
-==========
-
-
 
 
 # Education
-===========
 * Ph.D. in Mechanical Engineering, University of Notre Dame, May 2025 (expected)
 * B.S. in Energy and Power Engineering, Xi'an Jiaotong University, China, 2019
