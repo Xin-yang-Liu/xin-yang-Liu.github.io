@@ -34,5 +34,5 @@ Awards
 
 - Society of Engineering Science Annual Technical Meeting (SES2022) funding support, Oct, 2022
 
-- USNCCM16 ($16^{th}$ U.S. National Congress on Computational Mechanics) Conference Award,  May, 2021
+- USNCCM16 ($$16^{th}$$ U.S. National Congress on Computational Mechanics) Conference Award,  May, 2021
 
