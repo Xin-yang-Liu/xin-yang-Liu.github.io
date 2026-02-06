@@ -24,11 +24,11 @@ author:
   avatar           : "profile.jpg"
   name             : "Xin-Yang Liu / 刘昕阳"
   pronouns         : # example: "she/her"  
-  bio              : "Numerical methods, Deep Learning, & a Tech Nerd"
-  location         : "Notre Dame, IN"
-  employer         : "University of Notre Dame"
+  bio              : "Generative AI, Computational Physics, Deep Learning"
+  location         : "Menlo Park, CA"
+  employer         : "Meta"
   uri              : # URL
-  email            : xliu28@nd.edu
+  email            : #
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -37,7 +37,7 @@ author:
   orcid            : "https://orcid.org/0000-0003-1423-605X"
   semantic         : # URL
   pubmed           : 
-  researchgate     : "https://www.researchgate.net/profile/Xin-Yang-Liu"
+  researchgate     : # "https://www.researchgate.net/profile/Xin-Yang-Liu"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
